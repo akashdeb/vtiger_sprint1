@@ -12,6 +12,8 @@ public class ToCreateAnOpportunity extends BaseClass{
 
 		System.out.println("Opportunity is not created");
 
+		System.out.println("Opportunity is from CMD");
+
 		
 
 	}
